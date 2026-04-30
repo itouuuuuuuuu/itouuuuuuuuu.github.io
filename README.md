@@ -9,6 +9,11 @@
 - 特定商取引法に基づく表記（Stripe 審査用）
 - 問い合わせ窓口
 
+## 公開中の OSS プロジェクト
+
+- [subtitler](https://github.com/itouuuuuuuuu/subtitler) — 英語ページに日本語訳を字幕表示する Chrome 拡張
+- [ZMK Battery Bar](https://github.com/itouuuuuuuuu/zmk-battery-bar) — ZMK 分割キーボードのバッテリー残量を表示する macOS メニューバーアプリ
+
 ## 公開 URL
 
 | ページ | URL | 説明 |
