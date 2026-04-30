@@ -5,17 +5,22 @@
 ## 目的
 
 - 公開している OSS プロジェクトの一覧
-- 寄付（Ko-fi / GitHub Sponsors）の案内
-- 特定商取引法に基づく表記（Stripe 審査用）
+- 寄付（GitHub Sponsors）の案内
+- 特定商取引法に基づく表記（Stripe Connect 審査用）
 - 問い合わせ窓口
+
+## 公開中の OSS プロジェクト
+
+- [subtitler](https://github.com/itouuuuuuuuu/subtitler) — 英語ページに日本語訳を字幕表示する Chrome 拡張
+- [ZMK Battery Bar](https://github.com/itouuuuuuuuu/zmk-battery-bar) — ZMK 分割キーボードのバッテリー残量を表示する macOS メニューバーアプリ
 
 ## 公開 URL
 
 | ページ | URL | 説明 |
 | --- | --- | --- |
 | トップ | <https://itouuuuuuuuu.github.io/> | プロフィールと公開中の OSS プロジェクト一覧 |
-| サポート | <https://itouuuuuuuuu.github.io/sponsor.html> | Ko-fi / GitHub Sponsors を通じた寄付の案内 |
-| 特定商取引法に基づく表記 | <https://itouuuuuuuuu.github.io/tokushoho.html> | OSS 開発への任意の寄付に関する販売事業者・支払方法・返金等の表記。Stripe 審査の提出 URL として使用 |
+| サポート | <https://itouuuuuuuuu.github.io/sponsor.html> | GitHub Sponsors を通じた寄付の案内 |
+| 特定商取引法に基づく表記 | <https://itouuuuuuuuu.github.io/tokushoho.html> | OSS 開発への任意の寄付に関する販売事業者・支払方法・返金等の表記。GitHub Sponsors / Stripe Connect 審査の提出 URL として使用 |
 | お問い合わせ | <https://itouuuuuuuuu.github.io/contact.html> | 不具合報告・機能要望・その他連絡先 |
 
 ## ファイル構成
@@ -32,7 +37,7 @@ style.css        共通スタイル
 
 ## 新しい OSS プロジェクトを追加するとき
 
-1. 該当リポジトリに `.github/FUNDING.yml` を追加（`ko_fi: itouuuuuuuuu`）
+1. 該当リポジトリに `.github/FUNDING.yml` を追加（`github: [itouuuuuuuuu]`）。GitHub Sponsors 登録ユーザーの公開リポジトリでは Sponsor ボタンが自動表示されるため、このファイルは省略しても動作する
 2. このリポジトリの `index.html` のプロジェクト一覧に追記
 3. 必要に応じて `contact.html` の Issues リンクを追記
 
