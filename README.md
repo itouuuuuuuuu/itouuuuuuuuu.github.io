@@ -11,7 +11,12 @@
 
 ## 公開 URL
 
-<https://itouuuuuuuuu.github.io/>
+| ページ | URL | 説明 |
+| --- | --- | --- |
+| トップ | <https://itouuuuuuuuu.github.io/> | プロフィールと公開中の OSS プロジェクト一覧 |
+| サポート | <https://itouuuuuuuuu.github.io/sponsor.html> | Ko-fi / GitHub Sponsors を通じた寄付の案内 |
+| 特定商取引法に基づく表記 | <https://itouuuuuuuuu.github.io/tokushoho.html> | OSS 開発への任意の寄付に関する販売事業者・支払方法・返金等の表記。Stripe 審査の提出 URL として使用 |
+| お問い合わせ | <https://itouuuuuuuuu.github.io/contact.html> | 不具合報告・機能要望・その他連絡先 |
 
 ## ファイル構成
 
